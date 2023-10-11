@@ -24,12 +24,12 @@ Para completar esse desafio, percebi a  necessitar de pesquisas para aprender so
 
 <h2>Página Home</h2>
 
-![descrição da imagem]("../../src/assets/coffee-01.png")
+![descrição da imagem](coffee-01.png)
 
 <h2>Página para efetuar o cadastro de endereço e confirmar o pagamento</h2>
 
-![descrição da imagem]("../../src/assets/coffee-02.png")
+![descrição da imagem](coffee-02.png)
 
 <h2>Página de envio do delivery</h2>
 
-![descrição da imagem]("../../src/assets/coffee-03.png")
+![descrição da imagem](coffee-03.png)
